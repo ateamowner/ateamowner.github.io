@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /request-sent/
+
+Host: treelist.ai
+Sitemap: https://treelist.ai/sitemap.xml
